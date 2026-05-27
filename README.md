@@ -15,8 +15,8 @@ Tratamento básico de erros em requisições
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Isaque Paiva
+- Matricula: 916385
 
 ## Prints do trabalho
 
